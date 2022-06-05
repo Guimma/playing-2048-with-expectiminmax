@@ -1,3 +1,5 @@
+# This fork implements Expectiminmax algorithm to the AI!
+
 # Playing 2048 with Minimax algorithm and Selenium
 ![alt text](imgs/playing_2048.gif)
 
